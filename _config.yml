@@ -1,28 +1,40 @@
-name: Zaid Haque
-favicon: null
-layout_spectrum: 0.5483321791980416
-typography_spectrum: 0.728172856150195
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9059567232616246
-  lightness: 0.5327958399429917
-  saturation: 0.945053823525086
-  rhythmicContrast: 0.10386216873303056
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.945053823525086
+  brandStrength: 0.2455197
+  lightness: 0.5327958399429917
+  brandColors:
+    - '#1F2F48'
+    - '#040406'
+    - '#FFFFFF'
+    - '#FB9A9A'
+    - '#9A9B9C'
+  rhythmicContrast: 0.1038621687330306
+typography_spectrum: 0.9103943
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5609319
+favicon: null
+name: Zaid Haque
