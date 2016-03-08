@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zaid Haque]]></title>
+        <description><![CDATA[Zaid Haque]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 07:12:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World.]]></title>
+            <description><![CDATA[<article><h1>Hello World.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f06681b33469aca8c081663240ce24bae95d467.png"></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">67baf9ec-a412-4387-b265-5d694f5f2635</guid>
+            <pubDate>Tue, 08 Mar 2016 07:11:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
